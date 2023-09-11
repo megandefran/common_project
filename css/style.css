@@ -35,3 +35,21 @@ nav{
     border: 2px solid #da85a4;
     border-style: dotted;
 }
+nav a{
+    background-color: yellow;
+    padding: 5px;
+}
+a{
+    text-decoration: blue;
+}
+#skip{
+    text-transform: uppercase;
+}
+.thumbnail{
+    border: 5px solid blue;
+    padding: 20px;
+    margin: auto;
+    width: 250px;
+    display: block;
+    border-radius: 25px
+}
